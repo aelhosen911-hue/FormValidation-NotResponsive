@@ -1,2 +1,2 @@
-# FormValidation-NotResponsive
+# FormValidation-Responsive
 Simple Form Validation
